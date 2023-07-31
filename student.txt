@@ -1,0 +1,6 @@
+Name of student is ABhijeet', age is 23, marks: 90
+Name of student is Sarvesh\, age is 20, marks: 99
+Name of student is Jai, age is 20, marks: 95
+Name of student is Varun, age is 23, marks: 100
+Name of student is Sudhir, age is 20, marks: 100
+Name of student is Akhilesh, age is 20, marks: 100
