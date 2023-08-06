@@ -4,4 +4,5 @@ def vowels(a):
 		print(i)
 		if i in ['a', 'e', 'i', 'o', 'u']:
 			flag = True
+			break
 	return flag
